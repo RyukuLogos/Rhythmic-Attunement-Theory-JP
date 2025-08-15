@@ -2,7 +2,7 @@
 
 **著者:** R. L. Akahoshi
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1234567.svg)](https://doi.org/10.5281/zenodo.1234567)
+[![DOI](https://zenodo.org/badge/1038360669.svg)](https://doi.org/10.5281/zenodo.16879635)
 このリポジトリは、Rhythmic Attunement Theory (RAT) に関する論文のソースファイルを管理するものです。
 
 **[>> 完成版PDFはこちら <<](rat_jp2.pdf)**
